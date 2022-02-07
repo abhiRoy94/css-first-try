@@ -1,1 +1,1 @@
-# This is a test file trying to use pure HTML and CSS to create a static website.
+# This is a test repo trying to use pure HTML and CSS to create a static website.
